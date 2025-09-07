@@ -3,15 +3,14 @@
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
 [MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
-Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
+Alongside detailed reference documentation, we provide extensive learning resources for students and beginners, getting started with web development.
 
 ## MDN's mission
 
 MDN's mission is to provide a blueprint for a better internet and empower a new generation of developers and content creators to build it.
 
 The strength of MDN Web Docs lies in its vast community of active readers and contributors.
-Since 2005, approximately 45,000 contributors have created the documentation we know and love.
-Together, contributors have created over 45,000 documents that make up an up-to-date, comprehensive, and free resource for web developers worldwide.
+Since 2005, approximately 45,000 contributors have produced the documentation we know and love, totalling over 45,000 documents that make up an up-to-date, comprehensive, and free resource for web developers worldwide.
 
 In addition to English-language articles, over 35 volunteers lead translation and localization efforts for Chinese, French, Japanese, Korean, Portuguese, Russian, and Spanish.
 
@@ -32,7 +31,7 @@ yarn
 yarn start
 ```
 
-Once started, a live preview is available at `http://localhost:5042/`.
+Once started, a live preview is available at `http://localhost:5042`.
 
 ## Contribute to MDN Web Docs
 
@@ -52,5 +51,5 @@ See https://github.com/mdn/content/pull/21432 and https://github.com/mdn/content
 It can be replaced with the normal links syntax after successfully closing https://github.com/DavidAnson/markdownlint/issues/673.
 -->
 
-[mdn web docs]: https://developer.mozilla.org
+[MDN Web Docs]: https://developer.mozilla.org
 [communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
